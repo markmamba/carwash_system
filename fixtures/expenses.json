@@ -1,0 +1,52 @@
+[
+    {
+        "model": "finance.expense", 
+        "pk": 1,
+        "fields": {
+            "amount": "150.00",
+            "category": "supplies",
+            "date": "2024-10-01",
+            "description": "Office supplies purchase"
+        }
+    },
+    {
+        "model": "finance.expense",
+        "pk": 2,
+        "fields": {
+            "amount": "3000.00",
+            "category": "salaries",
+            "date": "2024-10-15",
+            "description": "Monthly salary for employees"
+        }
+    },
+    {
+        "model": "finance.expense",
+        "pk": 3,
+        "fields": {
+            "amount": "100.50",
+            "category": "utilities",
+            "date": "2024-10-10",
+            "description": "Electricity bill for October"
+        }
+    },
+    {
+        "model": "finance.expense",
+        "pk": 4,
+        "fields": {
+            "amount": "500.00",
+            "category": "maintenance",
+            "date": "2024-10-05",
+            "description": "Office maintenance service"
+        }
+    },
+    {
+        "model": "finance.expense",
+        "pk": 5,
+        "fields": {
+            "amount": "250.00",
+            "category": "marketing",
+            "date": "2024-10-12",
+            "description": "Facebook advertising campaign"
+        }
+    }
+]

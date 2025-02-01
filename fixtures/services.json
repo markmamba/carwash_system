@@ -1,0 +1,92 @@
+[
+    {
+        "model": "services.service",
+        "pk": 1,
+        "fields": {
+            "name": "Car Wash (Motorbike Small)",
+            "price": "70.00",
+            "description": "Basic car wash service including exterior wash and interior vacuum."
+        }
+    },
+    {
+        "model": "services.service",
+        "pk": 1,
+        "fields": {
+            "name": "Car Wash (Motorbike Big)",
+            "price": "100.00",
+            "description": "Basic car wash service including exterior wash and interior vacuum."
+        }
+    },
+    {
+        "model": "services.service",
+        "pk": 2,
+        "fields": {
+            "name": "Car Wash (Motorbike Tricycle)",
+            "price": "120.00",
+            "description": "Basic car wash service including exterior wash and interior vacuum."
+        }
+    },
+    {
+        "model": "services.service",
+        "pk": 3,
+        "fields": {
+            "name": "Car Wash (Medium)",
+            "price": "120.00",
+            "description": "Basic car wash service including exterior wash and interior vacuum."
+        }
+    },
+    {
+        "model": "services.service",
+        "pk": 4,
+        "fields": {
+            "name": "Car Wash (Large)",
+            "price": "150.00",
+            "description": "Basic car wash service including exterior wash and interior vacuum."
+        }
+    },
+    {
+        "model": "services.service",
+        "pk": 5,
+        "fields": {
+            "name": "Car Wash (XL)",
+            "price": "180.00",
+            "description": "Basic car wash service including exterior wash and interior vacuum."
+        }
+    },
+    {
+        "model": "services.service",
+        "pk": 6,
+        "fields": {
+            "name": "Interior Detailing",
+            "price": "2200.00",
+            "description": "Thorough cleaning of the car interior, including upholstery shampoo and steam cleaning."
+        }
+    },
+    {
+        "model": "services.service",
+        "pk": 7,
+        "fields": {
+            "name": "Exterior Polishing",
+            "price": "100.00",
+            "description": "Polishing the exterior of the car to restore shine and protect the paint."
+        }
+    },
+    {
+        "model": "services.service",
+        "pk": 8,
+        "fields": {
+            "name": "Engine Cleaning",
+            "price": "150.00",
+            "description": "Cleaning of the engine bay to remove dirt and grime."
+        }
+    },
+    {
+        "model": "services.service",
+        "pk": 9,
+        "fields": {
+            "name": "Full Service Package",
+            "price": "5000.00",
+            "description": "Combination of exterior wash, interior detailing, and engine cleaning."
+        }
+    }
+]

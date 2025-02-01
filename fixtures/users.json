@@ -1,0 +1,18 @@
+[
+    {
+        "model": "users.User",
+        "pk": 1,
+        "fields": {
+            "username": "admin",
+            "password": "pbkdf2_sha256$260000$H4GRwlNC2vWj$HBl+8RJ/URZ+kxWkV04/7PT+Hh/x6cdVdCtzzh8F/c4=", 
+            "email": "markmamba@mambamentality.com",
+            "first_name": "Admin",
+            "last_name": "User",
+            "user_type": "admin",
+            "phone_number": "1234567890",
+            "address": "Bonuan Gueset Dagupan City, Pangasinan",
+            "plate_no": "ABC123"
+        }
+    }
+]
+
